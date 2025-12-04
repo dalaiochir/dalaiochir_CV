@@ -4,12 +4,12 @@ import ProjectModal from './ProjectModal';
 const projects = [
   {
     name: "Personal Portfolio",
-    image: "/project1.png",
+    image: "../public/project1.jpg",
     description: "Next.js ашиглан өөрийн CV сайтын хөгжүүлэлт."
   },
   {
     name: "Task Manager App",
-    image: "/project2.png",
+    image: "../public/project2.png",
     description: "React + Node.js ашиглан Task Management веб апп."
   }
 ];

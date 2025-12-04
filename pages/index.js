@@ -8,6 +8,7 @@ import Footer from '../components/Footer';
 import ParticlesBackground from '../components/ParticlesBackground';
 import FloatingIcons from '../components/FloatingIcons';
 
+
 export default function Home() {
   return (
     <div>
